@@ -1,0 +1,2 @@
+include ':app', ':signalr-client-sdk', ':signalr-client-sdk-android-release'
+rootProject.name = "SignalR"
